@@ -1,0 +1,19 @@
+{
+  "name": "gestionbibliotheque",
+  "version": "1.0.0",
+  "description": "API de gestion de bibliothèque",
+  "main": "serveur.js",
+  "scripts": {
+    "start": "node serveur.js",
+    "dev": "nodemon serveur.js"
+  },
+  "keywords": [
+    "bibliotheque",
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "Thierno Mamadou Dian Balde",
+  "license": "ISC",
+  "type": "module"
+}
